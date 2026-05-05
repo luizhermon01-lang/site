@@ -1,0 +1,11 @@
+    body{
+        background-color: red;
+        font-family: Arial;
+    }
+
+    h1{
+        color: aliceblue;
+        text-align: center;
+        font-size: 70px;
+        font-style: italic;
+    }
