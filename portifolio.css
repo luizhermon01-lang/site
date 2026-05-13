@@ -1,0 +1,78 @@
+
+    body{
+    margin: 0;
+    height: 100vh;
+    background-color: black;
+    color: white;
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.topo{
+    width: 600px;
+    height: 80px;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 20px;
+    border-radius: 10px;
+}
+    .nome{
+        display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.imagem img{
+width: 500px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.imagens2{
+    width: 360px;
+    
+    position: absolute;
+top: 0;
+z-index: 2;
+    left: 0;
+}
+.imagens1{
+    width: 360px;
+    
+    position: absolute;
+top: 0;
+z-index: 2;
+    right: 0;
+}
+
+.sobremim{
+display: flex;
+justify-content: center;
+text-align: center;
+color: white;
+font-size: 30px;
+}
+
+.descriçãosobremim{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.formaçãoecursos{
+    display: flex; 
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+
+ 
+}
